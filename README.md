@@ -11,14 +11,14 @@ Clases abstractas
 
 Cada ejercicio representa un caso práctico diferente donde se modelan situaciones del mundo real mediante clases y relaciones de herencia.
 
-##Características:
+## Características:
 Uso de herencia para reutilizar atributos comunes.
 Uso de sobrescritura en el método calcularTotal().
 Validación para evitar valores negativos.
 Aplicación de encapsulamiento en los atributos.
 Uso de objetos dentro de clases (composición).
 
-##Casos de Prueba
+## Casos de Prueba
 
 Se probaron distintos escenarios para validar el correcto funcionamiento:
 
