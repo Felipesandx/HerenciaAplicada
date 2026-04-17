@@ -21,7 +21,6 @@ Uso de objetos dentro de clases (composición).
 ## Casos de Prueba
 
 Se probaron distintos escenarios para validar el correcto funcionamiento:
-
 Descuentos mayores al total (evitar valores negativos)
 Recargos en facturas a crédito
 Cálculo de cuotas
